@@ -16,4 +16,7 @@
 
 ![WhatsApp Image 2026-03-28 at 08 36 41](https://github.com/user-attachments/assets/123199df-0d49-409e-ab43-8ada631ddff2)
 
+RESULT : The troubleshooting The common emitter was successfully completed and the following results are observed : 1.gain of the amplifier = 6.8 dB
+2.bandwidth of the amplifier = 9.9kHz gain bandwidth product 219.43 kHz
+
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
