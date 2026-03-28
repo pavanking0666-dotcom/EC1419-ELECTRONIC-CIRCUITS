@@ -19,6 +19,12 @@
 
 ## MODEL GRAPH
 
+
+![WhatsApp Image 2026-03-28 at 08 19 45](https://github.com/user-attachments/assets/86fb83a7-4403-411f-a7a8-390804dd38d5)
+
+
+
+
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
 
