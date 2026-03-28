@@ -39,6 +39,11 @@
 
 
 ## **Result**
+
+![WhatsApp Image 2026-03-28 at 08 23 37](https://github.com/user-attachments/assets/07cf2ee7-fd52-4786-ba91-f906a1654ab3)
+
+
+
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
 **VOLTAGE GAIN =**
